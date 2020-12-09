@@ -22,11 +22,6 @@ https://github.com/urban-displacement/displacement-typologies/tree/main/code
 This is a finished project we are trying to fork and adapt for San Joaquin County. 
 https://www.urbandisplacement.org/
 
-## Previous work and issues encountered (ISSUE THIS IN THE ISSUES CUE)
-(Using Windows 10) Inside the anaconda navigator, go to environments > open terminal using a new environment called "typologies". Attempt to run python script using commands found in readme. Be sure to use "python" instead of "python3" in commands like "python3 1_data_download.py Atlanta". Doing so will prompt the terminal to ask you to download different modules, such as "Census" or "Geopandas". Upon trying to install "Geopandas", we ran into a GDAL issue.
-
-The 2000 Census API Key is broken. UDP has been notified about this issue, and we are waiting for the Census to fix it. In the meantime, lines of code that use 2000 data must be commented out. Code requires the below registration. 
-
 ### Link to activate API key for Census Data 
 https://api.census.gov/data/key_signup.html
 

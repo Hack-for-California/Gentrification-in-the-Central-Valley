@@ -17,14 +17,10 @@ https://github.com/urban-displacement/displacement-typologies/tree/main/code
 ### Access to datasets via UC Davis Box
 https://ucdavis.app.box.com/folder/126111887562?utm_campaign=collab%20auto%20accept%20user&utm_medium=email&utm_source=trans
 
-### Link to activate API key for 2000 Census Data 
+### Link to activate API key for Census Data 
 https://api.census.gov/data/key_signup.html
 
-## Links to UDP website and source code
-https://www.urbandisplacement.org/san-francisco/gentrification-and-displacement
-https://github.com/urban-displacement/displacement-typologies
-
-## Have Questions?
+### Have Questions?
 Contact hack-for-california@ucdavis.edu
 
 ## Data Collection and Update Process

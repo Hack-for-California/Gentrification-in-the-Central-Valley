@@ -20,11 +20,16 @@ https://ucdavis.app.box.com/folder/126111887562?utm_campaign=collab%20auto%20acc
 ### Link to activate API key for 2000 Census Data 
 https://api.census.gov/data/key_signup.html
 
+## Links to UDP website and source code
+https://www.urbandisplacement.org/san-francisco/gentrification-and-displacement
+https://github.com/urban-displacement/displacement-typologies
+
 ## Have Questions?
 Contact hack-for-california@ucdavis.edu
 
 ## Data Collection and Update Process
 
-The datasets were provided by the Center for Regional Change 
+External datasets were provided by the Center for Regional Change. The rest of the data is obtained from the American Community Survey (ACS) on the US Census Bureau site. This study uses 2014-2018 5-yr data summarized at the census tract level. Census tracts are areas whose boundaries typically remain consistent over time, with an average population of 4,000 people. Therefore, tracts in urban areas are smaller compared to those in rural areas.
+o   For more info, check out Geography and the American Community Survey
+https://www.census.gov/content/dam/Census/library/publications/2020/acs/acs_geography_handbook_2020.pdf
 
-As a reminder, we are interested in the San Francisco 2018 data/map, but normalized to San Joaquin County only (county code 077)

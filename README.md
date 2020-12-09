@@ -8,7 +8,10 @@ The collaborators include:
 Center for Regional Change (CRC)
 Urban Displacement Project 
 Hack for California- UC Davis 
-  (INCLUDE OURSELVES)
+  Student Researchers include: 
+  Jaime Luna 
+  Hipolito Angel Cerros
+  Luke Yee - GitHub:elu33
 
 ## How To Access 
 

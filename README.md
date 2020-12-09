@@ -18,11 +18,11 @@ https://github.com/urban-displacement/displacement-typologies/tree/main/code
 This is a finished project we are trying to replicate
 https://www.urbandisplacement.org/
 
-## Issues and Barriers 
-We created a remote environment through Anaconda Navigator
-Python in a new enviornments
+## Previous work and issues encountered 
+(Using Windows 10) Inside the anaconda navigator, go to environments > open terminal using a new environment called "typologies". Attempt to run python script using commands found in readme. Be sure to use "python" instead of "python3" in commands like "python3 1_data_download.py Atlanta". Doing so will prompt the terminal to ask you to download different modules, such as "Census" or "Geopandas". Upon trying to install "Geopandas", we ran into a GDAL issue.
 
-The 2000 Census API Key is broken. Attempts to activate new API keys have been sought out. Code requires the below registration. 
+The 2000 Census API Key is broken. CRC has been notified about this issue, and we are waiting for them to fix it. In the meantime, lines of code that use 2000 data must be commented out. Code requires the below registration. 
+
 ### Link to activate API key for Census Data 
 https://api.census.gov/data/key_signup.html
 
